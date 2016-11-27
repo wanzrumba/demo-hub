@@ -1,2 +1,4 @@
 # demo-hub
-Un test du public repo
+Premier changement: Un test du public repo
+Deuxieme changement: C' est spectaculaire!
+
