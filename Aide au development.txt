@@ -2,3 +2,5 @@
 Faut-il voir ce travail comme un changement dans le development
 de l' informatique? Je ne pense pas; je vois ceci plutot comme
 un changement dans la maniere de travailler.
+
+== Branch develop
